@@ -20,28 +20,6 @@ header h1 {
     font-size: 24px;
 }
 
-nav ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 10px;
-}
-
-nav ul li a {
-    text-decoration: none;
-    color: #007BFF; /* Cor azul para os links */
-    font-weight: bold;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
 main {
     padding: 20px;
     max-width: 900px;
